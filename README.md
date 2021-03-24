@@ -1,2 +1,2 @@
 # ATTToyManagerLogin
-Is a simple program for panel manager.
+This is a simple program for Toy company panel manager for admins.
